@@ -1,1 +1,1 @@
-# therapy-api project
+# therapy-api
